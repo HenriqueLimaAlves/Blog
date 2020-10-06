@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { CadastroComponent } from './cadastro/cadastro.component';
-import { FeedComponent } from './feed/feed.component';
+import { FeedComponent } from "./feed/FeedComponent";
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 
